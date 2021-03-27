@@ -1,0 +1,3 @@
+
+ ghi vao file thu xem insert
+ ghi vao file thu xem append

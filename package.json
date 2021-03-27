@@ -1,0 +1,15 @@
+{
+    "name": "thangbcph11219",
+    "version": "1.0.0",
+    "description": "lab3",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [
+        "48211"
+    ],
+    "author": "Bui Cong Thang",
+    "license": "ISC"
+}
