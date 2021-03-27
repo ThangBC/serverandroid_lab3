@@ -47,4 +47,4 @@ http.createServer(function(request, reponse) {
     } else {
         reponse.end("404 not found")
     }
-}).listen(9999);
+}).listen(process.env.PORT || '7777');
